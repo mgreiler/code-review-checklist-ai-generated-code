@@ -2,7 +2,7 @@
 
 AI can produce a large amount of plausible-looking code quickly. Human review should therefore focus less on formatting and individual lines, and more on whether the change solves the right problem, fits the system, and is supported by meaningful evidence.
 
-Builds, formatting, linting, type checks, standard security scans, secret scanning, dependency vulnerability checks, and license checks should run automatically before human review.
+Builds, formatting, linting, type checks, standard security scans, secret scanning, dependency vulnerability checks, and license checks should run automatically before human review. Also, run AI-reviews, aka reviews performed by one or more AI agents, also before asking for a peer-review.
 
 ## What the PR should explain
 
